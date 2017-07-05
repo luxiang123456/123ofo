@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+    <view style="margin-bottom:20px">第二页</view>
+    <button bindtap="enter">进入第三页</button>
+</view>
